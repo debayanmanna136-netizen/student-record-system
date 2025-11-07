@@ -30,10 +30,10 @@ Loops & Conditional Statements
 
 🧱 Project Structure
 StudentRecordSystem/
-│
-├── main.c          → main program file
-├── students.txt    → data file for storing student records
-└── README.md       → project documentation
+|-- README.md       → project documentation
+|-- main.c          → main program file
+|-- students.txt    → data file for storing student records
+
 
 📂 Sample Data (students.txt)
 
