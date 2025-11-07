@@ -71,13 +71,32 @@ Record added successfully!
 4. Exit
 Enter your choice: 2
 
-Roll   Name    Marks
-101    Rahul   85.50
-102    Priya   92.00
-103    Arjun   78.00
-104    Sneha   88.50
-105    Riya    95.00
-106    Aman    91.20
+====== Student Record Management System ======
+1. Add Student Record
+2. Display All Students
+3. Search Student
+4. Exit
+Enter your choice: 1
+Enter Roll, Name and Marks: 106 Aman 91.2
+Record added successfully!
+
+====== Student Record Management System ======
+1. Add Student Record
+2. Display All Students
+3. Search Student
+4. Exit
+Enter your choice: 2
+
+| Roll | Name  | Marks |
+|------|--------|--------|
+| 101  | Rahul | 85.50 |
+| 102  | Priya | 92.00 |
+| 103  | Arjun | 78.00 |
+| 104  | Sneha | 88.50 |
+| 105  | Riya  | 95.00 |
+| 106  | Aman  | 91.20 |
+
+
 
 🌱 Learning Outcomes
 
