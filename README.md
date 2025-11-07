@@ -7,9 +7,13 @@ It’s a great beginner-friendly project to understand how structured data can b
 🧠 Features
 
 ✅ Add new student records (Roll, Name, Marks)
+
 ✅ View all stored students
+
 ✅ Search for a student by roll number
+
 ✅ Store data permanently using text files
+
 ✅ Simple and easy-to-use console interface
 
 🧩 Tech Stack
@@ -27,33 +31,28 @@ Loops & Conditional Statements
 🧱 Project Structure
 StudentRecordSystem/
 │
-├── main.c          # main program file
-├── students.txt    # data file for storing student records
-└── README.md       # project documentation
+├── main.c          → main program file
+├── students.txt    → data file for storing student records
+└── README.md       → project documentation
 
 📂 Sample Data (students.txt)
-101 Rahul Sen 85.5
-102 Priya Das 92.0
-103 Arjun Roy 78.0
-104 Sneha Paul 88.5
-105 Riya Ghosh 95.0
-106 Amit Dutta 67.5
-107 Suman Das 73.0
-108 Neha Kapoor 81.0
-109 Dev Sharma 89.0
-110 Tania Mukherjee 90.5
+101 Rahul 85.5
+102 Priya 92.0
+103 Arjun 78.0
+104 Sneha 88.5
+105 Riya 95.0
 
 ⚙️ How to Run
 
 Step 1: Open VS Code or any C IDE
-Step 2: Save the project files in one folder
+Step 2: Save all files in one folder
 Step 3: Compile and run using:
 
 gcc main.c -o student
 ./student
 
 
-Step 4: Follow on-screen instructions to perform operations like Add, View, and Search.
+Step 4: Follow the on-screen menu to perform operations like Add, View, and Search.
 
 💻 Sample Output
 ====== Student Record Management System ======
@@ -88,19 +87,19 @@ How to create and manage structures in C
 
 How to store and retrieve data using files
 
-How to design a simple menu-driven console application
+How to design a menu-driven console application
 
 How data persistence works across program runs
 
-📜 Future Enhancements
+🚀 Future Enhancements
 
-Add student deletion and record update feature
+Add delete and update functionality
 
 Sort students by marks or name
 
 Save data in binary files for efficiency
 
-Create a simple GUI version using Python or Java
+Create a GUI version using Python or Java
 
 👨‍💻 Author
 
