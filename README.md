@@ -36,11 +36,6 @@ StudentRecordSystem/
 └── README.md       → project documentation
 
 📂 Sample Data (students.txt)
-101 Rahul 85.5
-102 Priya 92.0
-103 Arjun 78.0
-104 Sneha 88.5
-105 Riya 95.0
 
 ⚙️ How to Run
 
