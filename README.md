@@ -40,7 +40,9 @@ StudentRecordSystem/
 ⚙️ How to Run
 
 Step 1: Open VS Code or any C IDE
+
 Step 2: Save all files in one folder
+
 Step 3: Compile and run using:
 
 gcc main.c -o student
