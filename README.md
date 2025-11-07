@@ -58,7 +58,9 @@ Step 4: Follow the on-screen menu to perform operations like Add, View, and Sear
 3. Search Student
 4. Exit
 Enter your choice: 1
+
 Enter Roll, Name and Marks: 106 Aman 91.2
+
 Record added successfully!
 
 ====== Student Record Management System ======
@@ -67,6 +69,10 @@ Record added successfully!
 3. Search Student
 4. Exit
 Enter your choice: 2
+
+| Roll | Name  | Marks |
+|------|--------|--------|
+| 101  | Rahul | 85.50 |
 
 ====== Student Record Management System ======
 1. Add Student Record
